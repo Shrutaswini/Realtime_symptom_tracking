@@ -109,6 +109,6 @@ Clean, well-documented, and reproducible — perfect for recruiters or clinical 
 
 # 👨‍💻 Author
 Shrutaswini 
-Aspiring Data Scientist | Background in Neuroscience & Healthcare | Python | SQL | GCP
+Aspiring Data Scientist | Background in Neuroscience | Python | SQL | GCP
 📫 [https://www.linkedin.com/in/shrutaswini-borkakoty]
 
